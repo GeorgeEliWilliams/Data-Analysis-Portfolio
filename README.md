@@ -29,7 +29,7 @@ Skills :
 * Aggregation: Employed aggregate functions (e.g., COUNT, AVG) to calculate statistics, such as counting the number of non-smokers and determining the average absenteeism time across all employees.
 
 ## Covid-19 Analysis
-directory : 
+directory : [Covid-19 Analysis](https://github.com/GeorgeEliWilliams/Data-Analysis-Portfolio/tree/main/Covid19%20Analysis)
 
 Description : The "COVID-19 Analysis" project involves examining COVID-19 data to understand the impact of the pandemic across different locations. The dataset contains information on infection rates, death counts, vaccination rates, and population demographics for various countries or regions. By analyzing this data, the project aims to assess the likelihood of death for infected and vaccinated individuals, determine infection rates among vaccinated individuals, and identify countries with the highest death rates relative to their populations.
 
@@ -41,7 +41,7 @@ Skills :
 * Statistical Analysis: Determined the death rate relative to population size by dividing the total number of deaths by the population and expressing the result as a percentage, providing insights into the severity of the pandemic in different locations.
 
 ## Vehicle Accident Analysis
-directory : 
+directory : [Vehicle Acident Analysis](https://github.com/GeorgeEliWilliams/Data-Analysis-Portfolio/tree/main/Vehicle%20Accident%20Analysis)
 
 Description : The "Vehicle Accident Analysis" project involves the exploration and analysis of vehicle accident data to understand various factors contributing to accidents and their severity. The dataset contains information on accidents, vehicles involved, weather conditions, journey purposes, and more. Through a series of SQL queries, the project aims to answer key questions related to accident frequency, severity, vehicle age, weather conditions, impact points, and journey purposes.
 
