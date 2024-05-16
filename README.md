@@ -18,7 +18,7 @@ Within this portfolio, you will find a curated selection of projects that showca
 
 # Highlighted Projects
 ## Absenteeism at Work Analysis
-directory : ['Absenteesm at work sql project']
+directory : [Absenteesm at work Analysis](https://github.com/GeorgeEliWilliams/Data-Analysis-Portfolio/tree/main/Absenteesm%20at%20work%20sql%20project)
 
 Description : The "Absenteeism at Work" project focuses on analyzing absenteeism patterns among employees and identifying factors contributing to absenteeism. The dataset contains information on employees' absenteeism, including reasons for absence, body mass index (BMI), transportation expenses, education level, social habits, disciplinary history, and more. By examining these factors, the project aims to gain insights into absenteeism trends and potential strategies for mitigating absenteeism in the workplace.
 
