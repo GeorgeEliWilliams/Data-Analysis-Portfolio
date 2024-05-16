@@ -56,14 +56,30 @@ Skills :
 * Conditional Logic: Employed CASE statements to categorize data and assign severity levels based on predefined thresholds, enhancing the interpretability of results.
 
 ## Netflix Analysis Dashboard
-directory : 
-Description : 
-Skills :
+Dashboard : [tableau dashboard](https://public.tableau.com/views/NetflixAnalyticsDashboard_17148618820930/NetflixAnalytics?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-## British Airline Analysis Dashboard
-directory : 
-Description : 
+Description : The "Netflix Analysis" project focuses on creating a comprehensive Tableau dashboard to visualize and analyze the Netflix catalog. Using the 'netflix_titles' dataset, the project aims to provide insights into the types of content available, trends over time, content ratings, and geographic distribution of Netflix productions. This visualization helps in understanding Netflix's content strategy, identifying popular genres, and exploring the diversity of Netflix's offerings.
+
 Skills :
+* Interactive Dashboards: Designed interactive dashboards in Tableau that allow users to explore the Netflix catalog by various dimensions such as genre, release year, rating, and country.
+* Genre and Content Type Analysis: Visualized the distribution of content types (Movies, TV Shows) and genres to identify popular and trending categories within the Netflix catalog.
+* Time Series Analysis: Created time series charts to analyze the release trends over the years, identifying periods of high content addition and trends in content production.
+* Geographic Mapping: Used geographic data to map the distribution of Netflix productions by country, highlighting regions with significant content contributions.
+* Content Ratings Analysis: Analyzed the distribution of content ratings (e.g., PG, R, TV-MA) to understand the target audience demographics and the variety of content available.
+* Filter and Highlight Actions: Enabled filters and highlight actions to allow users to focus on specific genres, ratings, or countries, enhancing the interactivity and usability of the dashboard.
+
+## British Airways Reviews Dashboard
+Dashboard : [tableau dashboard](https://public.tableau.com/views/Britishairlinedashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+Description : The "British Airways Reviews Analysis" project involves creating an interactive Tableau dashboard to visualize and analyze customer reviews of British Airways. Using two datasets, 'ba_reviews' and 'countries,' the project aims to provide insights into customer sentiments, review trends, and geographic distribution of reviews. This visualization helps in identifying key areas for improvement, understanding customer feedback, and enhancing the overall customer experience.
+
+Skills :
+* Data Integration: Combined two datasets ('ba_reviews' and 'countries') to enrich the analysis with geographic context and detailed review information.
+* Interactive Dashboards: Created interactive dashboards in Tableau that allow users to explore data dynamically, filter by different dimensions, and drill down into specific details.
+* Geographic Mapping: Leveraged geographic data from the 'countries' dataset to map review distributions and highlight regional trends and patterns.
+* Time Series Analysis: Created time series charts to track review trends over time, identifying peaks and troughs in review counts and sentiments.
+* Data Filtering and Highlighting: Implemented filters and highlights to enable users to focus on specific regions, review categories, or time periods for deeper insights.
+* Tooltip Customization: Enhanced tooltips to provide additional context and detailed information when users hover over data points, improving the user experience and data comprehension.
 
 # Contacts
 * Email: williamsgeorge950@gmail.com
