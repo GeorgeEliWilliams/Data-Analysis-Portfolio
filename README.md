@@ -64,3 +64,7 @@ Skills :
 directory : 
 Description : 
 Skills :
+
+# Contacts
+* Email: williamsgeorge950@gmail.com
+* LinkedIn: [@georgewilliams](linkedin.com/in/george-williams-2709401b4/)
